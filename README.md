@@ -7,6 +7,9 @@ If you wanna know about proposed plans and asthetics for the site you can check 
 </p>
 
 (note, this is a site with PROPOSED updates and looks, so there may be bugs, or some of the links may not work, but these will be completly fixed when they are Officially added to the Troop's site)
+
+PS: This is the Backup repo for CAC Troop 223's official Website. If any files have been destroyed, or in some way damaged, these files serve as a time capsual to repair and replace data. This is being written by the former Webmaster, Zephyr Carter, who is now Succeded by the new Webmaster, Payton Willoford on 30/08/2024 
+DO NOT DELETE THESE FILES.
 <br>
   <h6>
  questions or comments? please email us at:  <br>
